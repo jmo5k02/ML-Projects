@@ -1,0 +1,1 @@
+# Manning Live Project Trading with ML
