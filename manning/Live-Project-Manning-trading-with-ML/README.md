@@ -1,10 +1,7 @@
 # Manning Live Project Trading with ML
 
-Python Version : 3.11
+This Project uses Mambaforge-pypy3 release 23.3.1-1 for Windows with the liveproject.yml as env config file
 
-Installed Packages are:
-- numpy
-- pandas
-- seaborn
-- nasdaq-data-link
-- jupyterlab
+Start Miniforge Prompt and create an Python Venv with the liveproject.yml
+
+mamba env create -n AlgoTradingVenv -f C:\Users\justu\Downloads\liveproject.yml
